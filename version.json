@@ -1,13 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-10-27",
-  "title": "Mise a jour Dec2026 v1.0.1 (Correctifs & Nouveautes)",
- "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.1.zip",
-  "sha256": "C93B5ED15D2825FDAF75AFCC51C0858C381589D63654EBE737D34D9DFA4F8E7F",
+  "title": "Mise à jour v1.0.2 — Éditeur de contrats & Suivi des échéances",
   "changelog": [
-    "Mise a jour du bareme fiscal 2026",
-    "Optimisation des exports PDF G50 et Etat 104",
-    "Amelioration generale de la stabilite"
+    "Éditeur interactif en direct des clauses et articles des contrats de travail (comme C20) avec sauvegarde immédiate.",
+    "Bouton de rétablissement du modèle par défaut et synchronisation directe avec export Word (.doc) et PDF.",
+    "Tableau de bord centralisé de suivi des contrats et alertes d'échéances sans ouvrir chaque fiche salarié.",
+    "Badges d'alertes colorés (Rouge: expirés, Orange: expire dans < 30j, Vert: en cours, Bleu: CDI).",
+    "Suivi des périodes d'essai et jauges de progression de la durée écoulée.",
+    "Exportation Excel du registre complet des contrats de l'entreprise.",
+    "Badge de version v1.0.2 affiché en permanence dans la barre supérieure."
   ],
+  "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.2.zip",
+  "sha256": "9d8488f436ebebe461de96168013922f43c6b847f9560e109e0e952282e341a7",
   "critical": false
 }
