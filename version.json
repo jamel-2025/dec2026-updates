@@ -1,17 +1,29 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "release_date": "2026-10-27",
-  "title": "Mise à jour v1.0.2 — Éditeur de contrats & Suivi des échéances",
+  "title": "Mise à jour v1.0.3 — Contrats de travail, Alertes & Notification bilingue",
   "changelog": [
-    "Éditeur interactif en direct des clauses et articles des contrats de travail (comme C20) avec sauvegarde immédiate.",
-    "Bouton de rétablissement du modèle par défaut et synchronisation directe avec export Word (.doc) et PDF.",
-    "Tableau de bord centralisé de suivi des contrats et alertes d'échéances sans ouvrir chaque fiche salarié.",
-    "Badges d'alertes colorés (Rouge: expirés, Orange: expire dans < 30j, Vert: en cours, Bleu: CDI).",
-    "Suivi des périodes d'essai et jauges de progression de la durée écoulée.",
-    "Exportation Excel du registre complet des contrats de l'entreprise.",
-    "Badge de version v1.0.2 affiché en permanence dans la barre supérieure."
+    "إمكانية تعديل وتخصيص نص وبنود عقود العمل مباشرة مع شريط أدوات التنسيق وحفظها في قاعدة البيانات.",
+    "إلغاء الترويسة والتذييل الافتراضي للمتصفح عند طباعة العقود الرسمية بمقاس A4 دقيق.",
+    "إضافة تبويب (كل العقود) لعرض وتصفية جميع عقود عمال الشركة حسب العامل والنوع والرقم.",
+    "لوحة تنبيهات ومتابعة آجال العقود (CDD/CDI/فترة التجربة) والتنبيه التلقائي قبل الانتهاء بـ 30 يوماً.",
+    "التنبيه التلقائي ثنائي اللغة (عربي / فرنسي) عند تشغيل المنظومة في حالة توفر تحديث جديد مع التثبيت بضغطة زر واحدة."
   ],
-  "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.2.zip",
-  "sha256": "9d8488f436ebebe461de96168013922f43c6b847f9560e109e0e952282e341a7",
+  "changelog_ar": [
+    "إمكانية تعديل وتخصيص نص وبنود عقود العمل مباشرة مع شريط أدوات التنسيق الشامل (مثل C20) وحفظها في قاعدة البيانات.",
+    "إلغاء الترويسة والتذييل الافتراضي للمتصفح عند طباعة العقود الرسمية بمقاس A4 دقيق ونظيف.",
+    "إضافة تبويب (كل العقود) في الوسط لعرض وتصفية جميع عقود عمال الشركة حسب العامل والنوع والرقم.",
+    "لوحة تنبيهات ومتابعة آجال العقود (CDD/CDI/فترة التجربة) والتنبيه التلقائي قبل الانتهاء بـ 30 يوماً.",
+    "تنبيه تلقائي ذكي ثنائي اللغة عند تشغيل المنظومة فور توفر أي تحديث جديد مع إمكانية التثبيت الفوري بنقرة واحدة."
+  ],
+  "changelog_fr": [
+    "Éditeur enrichi des clauses et articles des contrats de travail (ruban C20) avec enregistrement en base.",
+    "Suppression propre des en-têtes et pieds de page du navigateur lors de l’impression A4 officielle.",
+    "Nouvel onglet « Tous les contrats » avec recherche et filtres par salarié, N° et type de contrat.",
+    "Cockpit de suivi des échéances et alertes des contrats (CDD, CDI, périodes d’essai, fins de contrat).",
+    "Notification automatique bilingue au démarrage en cas de nouvelle mise à jour avec installation en 1 clic."
+  ],
+  "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.3.zip",
+  "sha256": "774c464bf7df94c399253433c1858a4fb8b7622f4f2a587163c927802e7655e0",
   "critical": false
 }
