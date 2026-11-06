@@ -1,0 +1,20 @@
+{
+  "version": "1.0.2",
+  "release_date": "2026-11-06",
+  "title": "Mise à jour Dec2026 v1.0.2",
+  "title_ar": "تحديث المنظومة v1.0.2",
+  "changelog": [
+    "Optimisation du moteur de calcul et des rapports FastReport .fr3",
+    "Enrichissement du Dossier Numérique avec scanner matériel WIA et mobile QR",
+    "Amélioration des performances d'affichage et de synchronisation réseau"
+  ],
+  "changelog_ar": [
+    "تحسين محرك الحسابات الجبائية وسرعة إخراج تقارير FastReport",
+    "تطوير الملف الرقمي والأرشيف القانوني مع دعم الماسح الضوئي WIA والمحمول QR",
+    "تسريع الأداء وثبات المزامنة في بيئة الشبكة المحلية"
+  ],
+  "download_url": "https://github.com/jamel-2025/dec2026-updates/releases/download/v1.0.2/update_v1.0.2.zip",
+  "sha256": "9ae042bcfc14fa5e424fe3d23e1e48ea94248af0a17f5a2401e3d6bcc579c264",
+  "critical": false,
+  "updated_files_count": 242
+}
