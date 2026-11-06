@@ -13,7 +13,7 @@
     "تطوير الملف الرقمي والأرشيف القانوني مع دعم الماسح الضوئي WIA والمحمول QR",
     "تسريع الأداء وثبات المزامنة في بيئة الشبكة المحلية"
   ],
-  "download_url": "https://github.com/jamel-2025/dec2026-updates/releases/download/v1.0.2/update_v1.0.2.zip",
+ "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.2.zip",
   "sha256": "9ae042bcfc14fa5e424fe3d23e1e48ea94248af0a17f5a2401e3d6bcc579c264",
   "critical": false,
   "updated_files_count": 242
