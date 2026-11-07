@@ -1,0 +1,20 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-11-07",
+  "title": "Mise à jour Dec2026 v1.0.1",
+  "title_ar": "تحديث المنظومة v1.0.1",
+  "changelog": [
+    "Découplage des honoraires vers application dédiée Hono et allègement de l'interface G50",
+    "Correction du module Lotissement (génération de lots en série fiable et calcul sécurisé)",
+    "Mise à niveau et synchronisation automatique des bases de données au démarrage"
+  ],
+  "changelog_ar": [
+    "فصل أتعاب ومداخيل المكتب في تطبيق مستقل Hono وتبسيط الواجهة لتقتصر على التصريحات G50",
+    "إصلاح توليد القطع في التجزئة العقارية (Génération en série) وتأمين الترقيم التلقائي",
+    "الترقية والتحديث التلقائي الصامت لقواعد بيانات الشركات القديمة بمجرد فتح البرنامج"
+  ],
+  "download_url": "https://raw.githubusercontent.com/jamel-2025/dec2026-updates/main/update_v1.0.1.zip",
+  "sha256": "61fcca893a71ce933d9c5d1271958dcfaeec3ec0112f1dc9a509d8f56583705e",
+  "critical": false,
+  "updated_files_count": 335
+}
